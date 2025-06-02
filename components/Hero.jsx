@@ -1,9 +1,9 @@
-"use client";
-import React, { useEffect } from 'react'
+
+import React from 'react'
 import Link from 'next/link';
 import { Button } from './ui/button';
 import Image from 'next/image';
-import {useRef} from 'react'
+
 
 const HeroSection = () => {
     
